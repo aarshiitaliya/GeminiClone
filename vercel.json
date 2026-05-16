@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "GeminiClone",
+  "builds": [
+    {
+      "src": "dist/**",
+      "use": "@vercel/static"
+    }
+  ]
+}
